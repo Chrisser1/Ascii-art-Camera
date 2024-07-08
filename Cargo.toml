@@ -1,0 +1,8 @@
+[package]
+name = "Ascii-art-Camera"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+opencv = "0.92.0"
+image = "0.25.1"
